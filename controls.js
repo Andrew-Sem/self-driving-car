@@ -36,7 +36,6 @@ class Controls {
         default:
           break;
       }
-      console.table(this);
     };
 
     document.onkeyup = (e) => {
@@ -57,7 +56,6 @@ class Controls {
         default:
           break;
       }
-      console.table(this);
     };
   }
 }
